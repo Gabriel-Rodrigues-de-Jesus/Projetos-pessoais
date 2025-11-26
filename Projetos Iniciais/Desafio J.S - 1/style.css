@@ -1,0 +1,22 @@
+header{
+    color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    height: 630px;
+    width: 630px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+}
